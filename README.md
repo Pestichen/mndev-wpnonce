@@ -1,5 +1,5 @@
 # WpNonce
-Objektorientierter Ansatz Nonce zu nutes
+Objektorientierter Ansatz Nonce zu nutzen
 
 ##Installation
 
