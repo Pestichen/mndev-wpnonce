@@ -173,7 +173,7 @@ class WpNonce
      * Überprüft ob die übergebene URL eine valide URL mit Nounce ist (Ajax)
      *
      * Codex-Dokumentation:
-     * @see https://codex.wordpress.org/Function_Reference/check_admin_referer
+     * @see https://codex.wordpress.org/Function_Reference/check_ajax_referer
      *
      * @param string $query_arg
      * @param $die (whether to die if the nonce is invalid)
