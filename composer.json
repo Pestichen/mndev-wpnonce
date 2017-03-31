@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-0": {
-            "mndev": "src/"
+            "mndev": "WpNonce.php"
         }
     }
 }
