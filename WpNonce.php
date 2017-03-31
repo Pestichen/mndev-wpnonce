@@ -5,6 +5,7 @@ namespace mndev\WpNonce;
 /**
  * Class WpNonce
  * Ein Objektorientierter Ansatz um Wordpress Nonces zu nutzen.
+ * Inspiriert von https://github.com/christophwolff/WPnonce
  *
  * @package mndev\WpNonce
  * @version 0.0.1
